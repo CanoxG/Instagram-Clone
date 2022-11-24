@@ -1,0 +1,16 @@
+.nameText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.baseline {
+    align-items: baseline;
+}
+
+.cardText {
+    margin-top: 10px;
+    margin-left: 10px;
+}

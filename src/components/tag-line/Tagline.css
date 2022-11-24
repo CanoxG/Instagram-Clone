@@ -1,0 +1,16 @@
+.tagLine {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.tags {
+    margin-bottom: 8px;
+    padding-left: 8px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.views {
+    font-weight: 300;
+}

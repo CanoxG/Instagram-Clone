@@ -1,0 +1,7 @@
+.contentList {
+    display: flex;
+    flex-direction: column;
+    max-width: 618px;
+    width: 100%;
+}
+

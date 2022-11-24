@@ -1,0 +1,10 @@
+.comment {
+    display: flex;
+    flex-direction: column;
+}
+
+.commnetLine {
+    display: flex;
+    position: relative;
+    padding: 0 16px;
+}

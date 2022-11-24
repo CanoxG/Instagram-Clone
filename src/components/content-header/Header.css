@@ -1,0 +1,12 @@
+.contentHeader {
+    display: flex;
+    position: relative;
+    padding: 16px;
+}
+
+.textBar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 14px;
+
+}

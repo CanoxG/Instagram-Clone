@@ -1,0 +1,13 @@
+.search-bar {
+    text-align: center;
+    padding: 7px 0px;
+}
+
+.search {
+     width: 190px;
+     height: 23px;
+}
+
+.search::placeholder {
+    text-align: center;
+}

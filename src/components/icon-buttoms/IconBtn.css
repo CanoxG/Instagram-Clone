@@ -1,0 +1,12 @@
+.iconBtn {
+    padding: 8px;
+    border: none;
+    background-color: transparent;
+}
+
+.favbtn {
+    position: absolute;
+    padding: 8px;
+    top: 0;
+    right: 0;
+}

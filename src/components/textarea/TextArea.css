@@ -1,0 +1,14 @@
+.commentText {
+    display: flex;
+    height: 56px;
+    position: relative;
+    align-items: center;
+}
+
+.textarea {
+    border-style: none;
+    outline-style: none;
+    height: 18px;
+    width: 540px;
+}
+
